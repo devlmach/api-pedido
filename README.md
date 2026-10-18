@@ -67,7 +67,8 @@ Swagger disponível em `http://localhost:8000/swagger`.
   "clientName": "Maria",
   "address": "Rua A, 123",
   "products": [
-    { "productName": "Caneta", "productQuantity": 2, "productPrice": 3.50 }
+    { "productName": "Caneta", "productQuantity": 2, "productPrice": 3.50 },
+    { "productName": "Estojo", "productQuantity": 1, "productPrice": 10.0 }
   ]
 }
 ```
