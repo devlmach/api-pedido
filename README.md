@@ -90,8 +90,8 @@ Swagger disponível em `http://localhost:8000/swagger`.
 ## Como executar
 
 ```bash
-git clone <URL_DO_REPOSITORIO>
-cd <NOME_DO_REPOSITORIO>
+git clone https://github.com/devlmach/api-pedido.git
+cd api-pedido
 docker compose up -d --build
 ```
 
